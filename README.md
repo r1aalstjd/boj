@@ -1,11 +1,13 @@
 # boj
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=r1aalstjd& exclude_repo=algorithm-problems,r1aalstjd.github.io,Tetris,image-collager">
-    <img src="https://github.com/anuraghazra/github-readme-stats" alt="top-langs"/>
-</a>
-<a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalstjd">
-    <img src="https://solved.ac/rlaalstjd" alt="solvedac"/>
-</a>
+<p align='center'>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1aalstjd& exclude_repo=algorithm-problems,r1aalstjd.github.io,Tetris,image-collager"/>
+    </a>
+    <a href="https://solved.ac/rlaalstjd">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalstjd"/>
+    </a>
+</p>
 
 [Baekjoon Online Judge](https://www.acmicpc.net/)에서 해결한 문제들 중 ***인상 깊은*** 문제들을 정리하는 공간입니다.
 
