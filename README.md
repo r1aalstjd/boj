@@ -4,6 +4,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1aalstjd&exclude_repo=algorithm-problems,r1aalstjd.github.io,Tetris,image-collager"/>
     </a>
+    
+</p>
+<p align='center'>
     <a href="https://solved.ac/rlaalstjd">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalstjd"/>
     </a>
@@ -16,4 +19,8 @@
 * 참신했던 문제들
 * 깨달음을 준 문제들
 * 새로운 시도가 필요했던 문제들
-* ~~그지 같았던 문제들~~
+* ~~구데기 같았던 문제들~~
+
+### 해결한 문제들
+* [18765번 - 정\*수\-를\+\[만들자!\]](./src/18765/18765.md)
+* [19851번 - 버거운 버거](./src/19851/19851.md)
