@@ -22,5 +22,5 @@
 * ~~구데기 같았던 문제들~~
 
 ### 해결한 문제들
-* [18765번 - 정\*수\-를\+\[만들자!\]](./src/18765/18765.md)
-* [19851번 - 버거운 버거](./src/19851/19851.md)
+* <img src="./src/images/platinum2.svg" alt="platinum2" width="20" height="20"/> [18765번 - 정\*수\-를\+\[만들자!\]](./src/18765/18765.md)
+* <img src="./src/images/diamond5.svg" alt="platinum2" width="20" height="20"/> [19851번 - 버거운 버거](./src/19851/19851.md)
